@@ -47,7 +47,7 @@ The dataset is available in the `dataset/` directory. If not present, you can do
 
 2. Train the machine learning model using the provided notebook or source code:
     ```sh
-    jupyter notebook notebooks/Model_Training.ipynb
+    jupyter notebook NOTEBOOKS/Model_Training.ipynb
     ```
 
 3. Evaluate the model and make predictions:
