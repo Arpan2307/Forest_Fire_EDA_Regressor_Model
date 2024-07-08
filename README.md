@@ -8,9 +8,8 @@ The dataset contains meteorological data and fire occurrence information from tw
 
 ## Project Structure
 
-- `data/`: Contains the dataset files.
-- `notebooks/`: Jupyter notebooks for EDA and model building.
-- `src/`: Source code for data processing, feature engineering, and model training.
+- `dataset/`: Contains the dataset files.
+- `NOTEBOOKS/`: Jupyter notebooks for EDA and model building.
 - `models/`: Saved machine learning models.
 - `README.md`: Project overview and instructions.
 
