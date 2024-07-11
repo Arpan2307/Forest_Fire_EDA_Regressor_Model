@@ -52,7 +52,7 @@ The dataset is available in the `dataset/` directory. If not present, you can do
 
 3. Evaluate the model and make predictions:
     ```sh
-    run the app2.py file to use the web app
+    run the application.py file to use the web app
     ```
 
 ## Exploratory Data Analysis (EDA)
